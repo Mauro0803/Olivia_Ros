@@ -1,0 +1,56 @@
+body * {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  #contactame {
+    text-align: center ;
+  }
+
+  #centrado {
+    text-align: center ;
+  }
+
+  header {
+    background-color: #373a3c;
+  }
+
+  .Comidas {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    height: 100vh;
+    color: white;
+    background-image: url('assets/img/bg-hero.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-left: 700px;
+}
+
+.buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.Comidas {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    height: 100vh;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    padding-left: 700px;
+}
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+ 
+}
